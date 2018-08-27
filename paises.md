@@ -1,0 +1,4 @@
+* França
+* Alemanha
+* Itália
+* Espanha
